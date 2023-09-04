@@ -6,3 +6,5 @@ annalyns-infiltration/bin/*
 annalyns-infiltration/obj/*
 log-levels/bin/*
 log-levels/obj/*
+log-analysis/bin/*
+log-analysis/obj/*
