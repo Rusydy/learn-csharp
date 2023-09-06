@@ -8,3 +8,5 @@ log-levels/bin/*
 log-levels/obj/*
 log-analysis/bin/*
 log-analysis/obj/*
+phone-number-analysis/bin/*
+phone-number-analysis/obj/*
